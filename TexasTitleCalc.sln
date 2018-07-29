@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Summy.WEB", "Summy.WEB\Summy.WEB.csproj", "{9F190D17-E89B-4D3A-AB81-0039F641E2E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TexasTitleCalc.WEB", "Summy.WEB\TexasTitleCalc.WEB.csproj", "{9F190D17-E89B-4D3A-AB81-0039F641E2E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Summy.API", "Summy.API\Summy.API.csproj", "{15A00E64-D393-4517-8AA5-42550BD6E12D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TexasTitleCalc.API", "Summy.API\TexasTitleCalc.API.csproj", "{15A00E64-D393-4517-8AA5-42550BD6E12D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

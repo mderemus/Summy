@@ -24,7 +24,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Summy.API\Summy.API.csproj" />
+    <ProjectReference Include="..\Summy.API\TexasTitleCalc.API.csproj" />
   </ItemGroup>
 
 </Project>

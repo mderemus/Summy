@@ -21,7 +21,7 @@ namespace Summy.API.Models
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
-      optionsBuilder.UseSqlServer(@"Server=DESKTOP-PO84PUU;Database=SSU;Trusted_Connection=True;ConnectRetryCount=0");
+      optionsBuilder.UseSqlServer(@"Server=DESKTOP-PO84PUU;Database=TexasTitleCalc;Trusted_Connection=True;ConnectRetryCount=0");
     }
 
   }
